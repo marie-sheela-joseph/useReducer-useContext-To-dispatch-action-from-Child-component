@@ -1,3 +1,7 @@
+Architecture diagram:
+![image](https://user-images.githubusercontent.com/92960836/223529040-f7b34816-48dc-4a81-b0d2-d49cdce55c17.png)
+
+
 Output screenshots:
 1. on page load:
 ![image](https://user-images.githubusercontent.com/92960836/223523884-ca139107-d332-43d8-97ef-98602688bf43.png)
