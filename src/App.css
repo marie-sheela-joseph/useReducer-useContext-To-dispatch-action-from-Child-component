@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 1.6rem;
+}
+img{
+    width: 100%;
+}
+.container{
+    max-width: 1140px;
+    padding: 0 3rem;
+    margin: auto;
+}
+.center{
+text-align: center;
+}
+button{
+    margin: 2rem;
+    padding: 1rem;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+.section{
+    padding: 7rem 0;
+}
+.counter{
+    background-color: slateblue;
+}
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.d-flex >div{
+    width: 30%;
+}
+.logos img{
+    height: 15rem;
+}
+h2{
+    margin-bottom: 2rem;
+}
