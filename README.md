@@ -1,3 +1,23 @@
+Output screenshots:
+1. on page load:
+![image](https://user-images.githubusercontent.com/92960836/223523884-ca139107-d332-43d8-97ef-98602688bf43.png)
+
+2. click on increment once:
+![image](https://user-images.githubusercontent.com/92960836/223524334-b19750cc-7041-45f3-b710-8e1a309ff8af.png)
+
+3. click on decrement twice:
+![image](https://user-images.githubusercontent.com/92960836/223524179-cead6234-f088-4f5a-9603-38ee5877388a.png)
+
+4. click on reset:
+![image](https://user-images.githubusercontent.com/92960836/223524430-1a0ef307-ae5e-4237-87b5-5f60b095d78f.png)
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
